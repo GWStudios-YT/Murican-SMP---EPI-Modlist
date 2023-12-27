@@ -201,4 +201,5 @@ Murican (SMP) - EPI mod pack
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/resourceful-lib">Resourceful Lib (by ThatGravyboat) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple Voice Chat (by henkelmax) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered">Sound Physics Remastered (by henkelmax) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/plushie-mod">Plushie Mod (by Link4real) </a></li>
 </ul>
