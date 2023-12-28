@@ -205,4 +205,6 @@ Murican (SMP) - EPI mod pack
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">Skin Layers 3D (Fabric/Forge) (by tr7zw) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/waystones">Waystones (by BlayTheNinth) </a></li>
 <li><a href="https://github.com/AlexModGuy/Ice_and_Fire/pull/5036">Ice_and_Fire 1.19.2 Port (by SiverDX) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/simplehats">Simple Hats (by SiverDX) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/alexs-mobs">Alex's Mobs (by sbom_xela) </a></li>
 </ul>
