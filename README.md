@@ -207,4 +207,6 @@ Murican (SMP) - EPI mod pack
 <li><a href="https://github.com/AlexModGuy/Ice_and_Fire/pull/5036">Ice_and_Fire 1.19.2 Port (by SiverDX) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/simplehats">Simple Hats (by SiverDX) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/alexs-mobs">Alex's Mobs (by sbom_xela) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus">Better Combat (by daedelus_dev) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat">FTB XMod Compat (By FTB) </a></li>
 </ul>
