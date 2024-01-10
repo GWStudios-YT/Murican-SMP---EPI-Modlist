@@ -209,14 +209,14 @@ Murican (SMP) - EPI mod pack
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/alexs-mobs">Alex's Mobs (by sbom_xela) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus">Better Combat (by daedelus_dev) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat">FTB XMod Compat (By FTB) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/additional-guns">Additional Guns (by henkelmax) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/effective-forge">Effective (Forge) (by Link4real) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/eureka-ships">Eureka! Ships! for Valkyrien Skies (Forge/Fabric) (Fabric/Forge) (by tr7zw) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge">Kotlin for Forge (by BlayTheNinth) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/ninezeros-gun-expansion">NineZero's Gun Expansion (by SiverDX) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/secretroomsmod">SecretRoomsMod (by SiverDX) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/security-craft">Security Craft (by sbom_xela) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/trajans-core">Trajan's Core (Forge) (by daedelus_dev) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/trajans-tanks">Trajan's Tanks (Forge) (By FTB) </a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies">Valkyrien Skies (Forge/Fabric) (By FTB) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/additional-guns">Additional Guns (by AutovwDev) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/effective-forge">Effective (Forge) (by BottomTextDanny and doctor4t/RAT) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/eureka-ships">Eureka! Ships! for Valkyrien Skies (Forge/Fabric) (Fabric/Forge) (by rubydesic) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge">Kotlin for Forge (by thedarkcolour) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ninezeros-gun-expansion">NineZero's Gun Expansion (by zaeonNineZero) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/secretroomsmod">SecretRoomsMod (by AbrarSyed) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/security-craft">Security Craft (by Geforce132) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/trajans-core">Trajan's Core (Forge) (by crescprince) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/trajans-tanks">Trajan's Tanks (Forge) (By crescprince) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies">Valkyrien Skies (Forge/Fabric) (By triode_) </a></li>
 </ul>
