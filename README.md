@@ -222,4 +222,6 @@ Murican (SMP) - EPI mod pack
 <li><a href="https://www.curseforge.com/members/yungnickyoung/projects">All of YUNG's Structure mods For 1.19.2 (By YUNGNICKYOUNG) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master">YDM's Weapon Master (By YourDailyModderx) </a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature's Compass (By Chaosyr) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators">Create: Diesel Generators (By george8188262) </a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/iron-furnaces">Iron Furnaces (By XenoMustache) </a></li>
 </ul>
