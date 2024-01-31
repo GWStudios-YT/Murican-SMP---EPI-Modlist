@@ -1,4 +1,4 @@
-# GWRStudios-Murican-(SMP)---EPI---Modlist
+# GWStudios-Murican-(SMP)---EPI---Modlist
 Murican (SMP) - EPI mod pack
 --------------------------------------------------------------------------------------
 <ul>
